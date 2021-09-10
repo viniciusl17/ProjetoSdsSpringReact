@@ -35,52 +35,52 @@ function DataTable() {
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Logan</td>
+                        <td>38</td>
+                        <td>52</td>
+                        <td>38017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Lazaro</td>
+                        <td>50</td>
+                        <td>24</td>
+                        <td>32580.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Anakin</td>
+                        <td>82</td>
+                        <td>70</td>
+                        <td>75205.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Akim</td>
+                        <td>52</td>
+                        <td>29</td>
+                        <td>24580.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Trojan</td>
+                        <td>27</td>
+                        <td>16</td>
+                        <td>17045.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Ka-El</td>
+                        <td>48</td>
+                        <td>26</td>
+                        <td>32057.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Capitão América</td>
-                        <td>45</td>
-                        <td>30</td>
-                        <td>58017.00</td>
+                        <td>Vinicius</td>
+                        <td>69</td>
+                        <td>52</td>
+                        <td>75014.00</td>
                     </tr>
                 </tbody>
             </table>
